@@ -1,0 +1,11 @@
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.exe
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.deps.json
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.runtimeconfig.json
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.runtimeconfig.dev.json
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.dll
+c:\Users\HUN\Desktop\C#\bin\Debug\netcoreapp3.1\Message Program.pdb
+c:\Users\HUN\Desktop\C#\obj\Debug\netcoreapp3.1\Message Program.csprojAssemblyReference.cache
+c:\Users\HUN\Desktop\C#\obj\Debug\netcoreapp3.1\Message Program.AssemblyInfoInputs.cache
+c:\Users\HUN\Desktop\C#\obj\Debug\netcoreapp3.1\Message Program.AssemblyInfo.cs
+c:\Users\HUN\Desktop\C#\obj\Debug\netcoreapp3.1\Message Program.dll
+c:\Users\HUN\Desktop\C#\obj\Debug\netcoreapp3.1\Message Program.pdb
